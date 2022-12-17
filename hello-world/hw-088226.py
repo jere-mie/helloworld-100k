@@ -1,0 +1,1 @@
+print('Hello World 088226!')
